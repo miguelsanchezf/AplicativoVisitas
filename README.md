@@ -1,5 +1,7 @@
 # AplicativoVisitas
 Aplicativo Móvil para Android con Web Service para el registro de lugares y mostrar como llegar al sitio con Google maps.
+[link](https://inspira-digital.com/wsAplicativo/app/AppVisitas.apk)
+
 
 EN:
 Mobile Application for Android with Web Service to register places and show how to get to the site with Google maps.
